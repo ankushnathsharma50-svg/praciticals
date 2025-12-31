@@ -4,7 +4,7 @@ int main() {
     printf("ERP :- 11809\n");
 
     int a, b, c;
-    printf("Enter three numbers: ");
+    printf("Enter thre numbers: ");
     scanf("%d %d %d", &a, &b, &c);
 
     if (a > b && a > c)
